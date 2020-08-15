@@ -1,0 +1,1 @@
+cmd_/home/myx/linux/IMX6ULL/linux_driver/9_key/key.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/myx/linux/IMX6ULL/linux_driver/9_key/key.ko /home/myx/linux/IMX6ULL/linux_driver/9_key/key.o /home/myx/linux/IMX6ULL/linux_driver/9_key/key.mod.o

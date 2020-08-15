@@ -1,0 +1,1 @@
+cmd_/home/myx/linux/IMX6ULL/linux_driver/1_chrdevbase/chrdevbase.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/myx/linux/IMX6ULL/linux_driver/1_chrdevbase/chrdevbase.ko /home/myx/linux/IMX6ULL/linux_driver/1_chrdevbase/chrdevbase.o /home/myx/linux/IMX6ULL/linux_driver/1_chrdevbase/chrdevbase.mod.o
